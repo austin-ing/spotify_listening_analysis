@@ -1,0 +1,30 @@
+Objective:
+How do my listening habits change over time?
+What patterns can I uncover in what, when, and how I listen to music?”
+
+# Reference Data:
+#      {
+#     "ts":"2025-09-09T22:20:30Z", --> YYYY-MM-DDTHH:MM:SSZ 
+#     "platform":"ios",
+#     "ms_played":202400,
+#     "conn_country":"US",
+#     "ip_addr":"128.6.147.86",
+#     "master_metadata_track_name":"AYAYAYA",
+#     "master_metadata_album_artist_name":"IZ*ONE",
+#     "master_metadata_album_album_name":"BLOOM*IZ",
+#     "spotify_track_uri":"spotify:track:4XKCLNyCTvtdkLu5O1mzTU",
+#     "episode_name":null,
+#     "episode_show_name":null,
+#     "spotify_episode_uri":null,
+#     "audiobook_title":null,
+#     "audiobook_uri":null,
+#     "audiobook_chapter_uri":null,
+#     "audiobook_chapter_title":null,
+#     "reason_start":"trackdone",
+#     "reason_end":"trackdone",
+#     "shuffle":true,
+#     "skipped":false,
+#     "offline":false,
+#     "offline_timestamp":1757456076.0,
+#     "incognito_mode":false
+#   }
